@@ -20,8 +20,8 @@ COINGECKO_API_URL = "https://api.coingecko.com/api/v3"
 REFRESH_INTERVAL = 120  # seconds
 
 # Email configuration
-EMAIL_SENDER = "MS_mszIzr@test-z0vklo60q5el7qrx.mlsender.net"
-EMAIL_PASSWORD = os.getenv( "mssp.DqgnmO6.3z0vklo53ep47qrx.BTRgbe0")
+EMAIL_SENDER = "****************************"  #=====security problems=====
+EMAIL_PASSWORD = os.getenv( "***************************")
 SMTP_SERVER = "smtp.mailersend.net"
 SMTP_PORT = 587
 

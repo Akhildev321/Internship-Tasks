@@ -1,0 +1,2 @@
+
+f.write(f"{datetime.now()} - Alert sent for {crypto}: ₹{price} > ₹{threshold}\n")
